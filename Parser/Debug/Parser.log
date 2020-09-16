@@ -1,0 +1,6 @@
+﻿  LexemAnalyzer.cpp
+C:\Dev\Parser\Parser\src\LexemAnalyzer.cpp(53,17): warning C4018: >=: несоответствие типов со знаком и без знака
+  Parser.cpp
+  Создание кода...
+C:\Dev\Parser\Parser\src\Parser.cpp(65): warning C4715: MathParser::Parser::factor: значение возвращается не при всех путях выполнения
+  Parser.vcxproj -> C:\Dev\Parser\Debug\Parser.lib
